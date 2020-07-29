@@ -1,0 +1,362 @@
+<html>
+<head>
+	<title>juego</title>
+	<style>
+		body{
+			background:url(images.jpg)
+		}
+		h1,a{
+			color:#FFFFFF;
+			font-size:100px;
+		}
+
+	</style>
+
+</head>
+<body>
+	<center>
+	<h1>Juego de Bacterias</h1>
+	<br>
+
+	<a href="primero.html">Play</a>
+	</center>
+</body>
+</html>
+//otra carpeta
+<html>
+<head>
+	<title>juego</title>
+    <style>
+		body{
+			background:url(fondoj.jpg)
+		}
+		h2{
+			background:#F68787;
+			height:60px;
+			text-align:center;
+			font-size:40px;
+		}
+
+	</style>
+	<script>
+		var perdiste="nololograste.html";
+		function Hasperdido()
+		{
+			location.href=perdiste;
+		}
+		setTimeout("Hasperdido()",9000);
+	</script>
+</head>
+
+<body>
+	<h2>Nivel 01</h2>
+	<marquee direction="right", scrollamount="15">
+		<a href="segundo.html">
+			<img src="bacteria.jpg">
+		</a>
+		
+	</marquee>
+		<h2>Buena Suerte</h2>
+</body>
+</html>
+//otro
+<html>
+<head>
+	<title>juego</title>
+	    <style>
+		body{
+			background:url(fondoj.jpg)
+		}
+		h2{
+			background:#F68787;
+			height:60px;
+			text-align:center;
+			font-size:40px;
+		}
+		.img{
+			height:95px;
+			width:190px;
+		}
+
+
+	</style>
+		<script>
+		var perdiste="nololograste.html";
+		function Hasperdido()
+		{
+			location.href=perdiste;
+		}
+		setTimeout("Hasperdido()",4200);
+	</script>
+</head>
+<body>
+	<h2>Nivel 02</h2>
+	<marquee direction="left", scrollamount="30"><!-- up, height="30",width="50"-->
+		<a href="tercero.html">
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<marquee direction="right", scrollamount="40"><!-- up, height="30",width="50"-->
+			<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<h2>Buena Suerte</h2>
+</body>
+</html>
+//otro
+<html>
+<head>
+	<title>juego</title>
+	    <style>
+		body{
+			background:url(fondoj.jpg)
+		}
+		h2{
+			background:#F68787;
+			height:60px;
+			text-align:center;
+			font-size:40px;
+		}
+		.img{
+			height:95px;
+			width:190px;
+		}
+
+
+	</style>
+		<script>
+		var perdiste="nololograste.html";
+		function Hasperdido()
+		{
+			location.href=perdiste;
+		}
+		setTimeout("Hasperdido()",4200);
+	</script>
+</head>
+<body>
+	<h2>Nivel 03</h2>
+	<marquee direction="left", scrollamount="30"><!-- up, height="30",width="50"-->
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<marquee direction="left", scrollamount="40"><!-- up, height="30",width="50"-->
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<marquee direction="right", scrollamount="40">
+			<a href="cuarto.html"><!-- up, height="30",width="50"-->
+			<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<h2>Buena Suerte</h2>
+</body>
+</html>
+//otro
+<html>
+<head>
+	<title>juego</title>
+	    <style>
+		body{
+			background:url(fondoj.jpg)
+		}
+		h2{
+			background:#F68787;
+			height:60px;
+			text-align:center;
+			font-size:40px;
+		}
+		.img{
+			height:95px;
+			width:190px;
+		}
+
+
+	</style>
+		<script>
+		var perdiste="nololograste.html";
+		function Hasperdido()
+		{
+			location.href=perdiste;
+		}
+		setTimeout("Hasperdido()",4200);
+	</script>
+</head>
+<body>
+	<h2>Nivel 04</h2>
+	<marquee direction="left", scrollamount="30"><!-- up, height="30",width="50"-->
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<marquee direction="left", scrollamount="40"><!-- up, height="30",width="50"-->
+		<a href="quinto.html">
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<marquee direction="right", scrollamount="40"><!-- up, height="30",width="50"-->
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+	</marquee>
+		<marquee direction="right", scrollamount="60"><!-- up, height="30",width="50"-->
+			<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<h2>Buena Suerte</h2>
+</body>
+</html>
+//otro
+<html>
+<head>
+	<title>juego</title>
+	    <style>
+		body{
+			background:url(fondoj.jpg)
+		}
+		h2{
+			background:#F68787;
+			height:60px;
+			text-align:center;
+			font-size:40px;
+		}
+		.img{
+			height:95px;
+			width:190px;
+		}
+
+
+	</style>
+		<script>
+		var perdiste="nololograste.html";
+		function Hasperdido()
+		{
+			location.href=perdiste;
+		}
+		setTimeout("Hasperdido()",4200);
+	</script>
+</head>
+<body>
+	<h2>Nivel 04</h2>
+	<marquee direction="left", scrollamount="30"><!-- up, height="30",width="50"-->
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<marquee direction="left", scrollamount="40"><!-- up, height="30",width="50"-->
+		<a href="lolograste.html">
+		<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<marquee direction="right", scrollamount="40"><!-- up, height="30",width="50"-->
+			<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+	</marquee>
+		<marquee direction="right", scrollamount="60"><!-- up, height="30",width="50"-->
+			<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+	</marquee>
+		<marquee direction="left", scrollamount="80"><!-- up, height="30",width="50"-->
+			<img src="bacteria.jpg" class="img">
+		</a>
+		
+	</marquee>
+		<h2>Buena Suerte</h2>
+</body>
+</html>
+//otro
+<html>
+<head>
+	<title>juego</title>
+		<style>
+		body{
+			background:url(images.jpg)
+		}
+		h1{
+			color:#FFFFFF;
+			font-size:100px;
+		}
+		p{
+			color:#FFFFFF;
+			font-size:30px;
+		}
+		a{
+			color:#FFFFFF;
+			font-size:50px;
+			background:#7BD575;
+		}
+
+	</style>
+<script>
+</script>
+
+</head>
+<body>
+	<hr>
+	<center>
+		<blink> <!--para que parpadee-->
+		<font color="red">
+			<h1>Has Ganado</h1>
+			<p>En hora buena lo lograste</p>
+			<a href="primero.html">volver a jugar</a></br>
+			<a href="juego.html">ir al menu</a>
+		</font>
+	</center>
+	<hr>
+</body>
+</html>
+//otro
+<html>
+<head>
+	<title>juego</title>
+			<style>
+		body{
+			background:url(images.jpg)
+		}
+		h1{
+			color:#FFFFFF;
+			font-size:100px;
+		}
+		p{
+			color:#FFFFFF;
+			font-size:30px;
+		}
+		a{
+			color:#FFFFFF;
+			font-size:50px;
+			background:#7BD575;
+		}
+
+
+	</style>
+
+<script>
+</script>
+
+</head>
+<body>
+	<hr>
+	<center>
+		<blink> <!--para que parpadee-->
+		<font color="red">
+			<h1>Has Perdido :(</h1>
+			<p>vuelve a intentarlo nada te detiene</p>
+			<a href="primero.html">reintentar</a></font><br>
+			<a href="juego.html">ir al menu</a>
+		</font>
+	</center>
+	<hr>
+</body>
+</html>
